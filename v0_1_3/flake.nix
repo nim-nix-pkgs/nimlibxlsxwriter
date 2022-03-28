@@ -11,7 +11,6 @@
   inputs.src-nimlibxlsxwriter-v0_1_3.ref   = "refs/tags/v0.1.3";
   inputs.src-nimlibxlsxwriter-v0_1_3.owner = "ThomasTJdev";
   inputs.src-nimlibxlsxwriter-v0_1_3.repo  = "nimlibxlsxwriter";
-  inputs.src-nimlibxlsxwriter-v0_1_3.dir   = "";
   inputs.src-nimlibxlsxwriter-v0_1_3.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";

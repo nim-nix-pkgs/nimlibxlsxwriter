@@ -11,7 +11,6 @@
   inputs.src-nimlibxlsxwriter-master.ref   = "refs/heads/master";
   inputs.src-nimlibxlsxwriter-master.owner = "ThomasTJdev";
   inputs.src-nimlibxlsxwriter-master.repo  = "nimlibxlsxwriter";
-  inputs.src-nimlibxlsxwriter-master.dir   = "";
   inputs.src-nimlibxlsxwriter-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
