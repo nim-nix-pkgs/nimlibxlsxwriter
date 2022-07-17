@@ -248,11 +248,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656748645,
-        "narHash": "sha256-QQSPjmyYF+Xy3elcJPcyn5V7CWKCaqU14qSCdWNiEnQ=",
+        "lastModified": 1657154799,
+        "narHash": "sha256-vf95J3UHZHXQ70aNoowSlqMkx9ness0NjpHAM4mqK7g=",
         "owner": "nim-nix-pkgs",
         "repo": "nimlibxlsxwriter",
-        "rev": "058cf4ca4f1589831056f2254a79ef1471a2fe26",
+        "rev": "d042f37b3fe5940bffee9fc1ed161615b7d4ec74",
         "type": "github"
       },
       "original": {
@@ -276,11 +276,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1656748645,
-        "narHash": "sha256-QQSPjmyYF+Xy3elcJPcyn5V7CWKCaqU14qSCdWNiEnQ=",
+        "lastModified": 1657154799,
+        "narHash": "sha256-vf95J3UHZHXQ70aNoowSlqMkx9ness0NjpHAM4mqK7g=",
         "owner": "nim-nix-pkgs",
         "repo": "nimlibxlsxwriter",
-        "rev": "058cf4ca4f1589831056f2254a79ef1471a2fe26",
+        "rev": "d042f37b3fe5940bffee9fc1ed161615b7d4ec74",
         "type": "github"
       },
       "original": {
@@ -304,11 +304,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1656748645,
-        "narHash": "sha256-QQSPjmyYF+Xy3elcJPcyn5V7CWKCaqU14qSCdWNiEnQ=",
+        "lastModified": 1657154799,
+        "narHash": "sha256-vf95J3UHZHXQ70aNoowSlqMkx9ness0NjpHAM4mqK7g=",
         "owner": "nim-nix-pkgs",
         "repo": "nimlibxlsxwriter",
-        "rev": "058cf4ca4f1589831056f2254a79ef1471a2fe26",
+        "rev": "d042f37b3fe5940bffee9fc1ed161615b7d4ec74",
         "type": "github"
       },
       "original": {
@@ -333,11 +333,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1656748645,
-        "narHash": "sha256-QQSPjmyYF+Xy3elcJPcyn5V7CWKCaqU14qSCdWNiEnQ=",
+        "lastModified": 1657154799,
+        "narHash": "sha256-vf95J3UHZHXQ70aNoowSlqMkx9ness0NjpHAM4mqK7g=",
         "owner": "nim-nix-pkgs",
         "repo": "nimlibxlsxwriter",
-        "rev": "058cf4ca4f1589831056f2254a79ef1471a2fe26",
+        "rev": "d042f37b3fe5940bffee9fc1ed161615b7d4ec74",
         "type": "github"
       },
       "original": {
@@ -360,11 +360,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1656748645,
-        "narHash": "sha256-QQSPjmyYF+Xy3elcJPcyn5V7CWKCaqU14qSCdWNiEnQ=",
+        "lastModified": 1657154799,
+        "narHash": "sha256-vf95J3UHZHXQ70aNoowSlqMkx9ness0NjpHAM4mqK7g=",
         "owner": "nim-nix-pkgs",
         "repo": "nimlibxlsxwriter",
-        "rev": "058cf4ca4f1589831056f2254a79ef1471a2fe26",
+        "rev": "d042f37b3fe5940bffee9fc1ed161615b7d4ec74",
         "type": "github"
       },
       "original": {
